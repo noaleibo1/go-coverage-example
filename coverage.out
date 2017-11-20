@@ -1,0 +1,4 @@
+mode: set
+github.com/noaleibo1/go-coverage-example/wizard.go:12.36,13.23 1 1
+github.com/noaleibo1/go-coverage-example/wizard.go:18.2,19.51 2 0
+github.com/noaleibo1/go-coverage-example/wizard.go:13.23,16.3 2 1
